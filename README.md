@@ -9,11 +9,13 @@ Repository of algorithms I have implemented
   *  classes
     * sorters
       * bubbleSort.py contains the implementation of bubble sort
+      * mergeSort.py contains the implementation of merge sort
 
 
 ### Implemented in Python
 * Sorting Algorithms
   * Bubble Sort
+  * Merge Sort
 
 ### Footnotes
 This repository is meant as a side project for refining my skills as a program, the ultimate goal is to implement any algorithm I find in a variety of languages. As of now the immediate goal is to implement in Python, but the hope is to also reimplement in C++ and Java.
