@@ -1,6 +1,6 @@
 #The main driver for everything, maintained for python 3
 
-from classes.bubbleSort import BubbleSort
+from classes.sorters.bubbleSort import BubbleSort
 
 from tests.sortTester import sortTester
 
