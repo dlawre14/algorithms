@@ -4,6 +4,9 @@ class BubbleSort:
     pass
 
   def sort(self, container):
+    if len(container) <= 1:
+      return container
+
     swapped = True
     while swapped:
       swapped = False
