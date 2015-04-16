@@ -15,6 +15,7 @@ class QuickSort:
       self._sort(container, p+1, high)
 
   def _partition(self, container, low, high):
+    #Could be smarter about pivot
     p = container[low]
     i = low
     j = high+1
