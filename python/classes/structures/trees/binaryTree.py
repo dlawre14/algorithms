@@ -1,3 +1,5 @@
+from ..containers.queue import Queue
+
 class BinaryTree:
 #Note: I'm choosing to define a binary tree as a set object
 # Technically we could define the tree as a node with other nodes
